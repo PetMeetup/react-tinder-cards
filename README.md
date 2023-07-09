@@ -17,7 +17,7 @@ https://tinder-cards.firebaseapp.com
 
 
 ### Installation
-
+-```git clone https://github.com/queq1890/react-tinder-cards```
 - ```cd``` into the folder
 - ```npm install``` to install the modules
 - ```npm start``` to run the demo
